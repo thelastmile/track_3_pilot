@@ -393,4 +393,7 @@ Mutable datastructure
 Immutable datastructure
 */
 
+// EXTRA CREDIT. Extend coconuts() and runBenchmark() to work with m coconuts instead of 2 coconuts.
+// (in other words, add a parameter.)
+// What's the best strategy you can come up with given 3 coconuts? 5 coconuts?
 
